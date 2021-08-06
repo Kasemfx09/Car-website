@@ -1,2 +1,2 @@
 ### Car Website
-<img src="img/capture.PNG" alt="" />
+<img src="images/Capture.PNG" alt="" />
